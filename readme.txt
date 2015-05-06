@@ -1,6 +1,7 @@
 === Safe Attachment Names ===
 Contributors: nuagelab
-Tags: admin, attachment, accents
+Donate link: http://www.nuagelab.com/products/wordpress-plugins/
+Tags: admin, attachment, accents, administration, latin, special characters, attachments
 Requires at least: 3.0
 Tested up to: 4.2.1
 Stable tag: trunk
@@ -19,6 +20,15 @@ For example: if a user uploads a file named "L'École de Éric Rémillard.png", 
 = Features =
 
 * Detects accents in newly uploaded files' names, and change them for their unaccented version (ie. é -> e)
+
+= Feedback =
+* We are open for your suggestions and feedback - Thank you for using or trying out one of our plugins!
+* Drop us a line [@nuagelab](http://twitter.com/#!/nuagelab) on Twitter
+* Follow us on [our Facebook page](https://www.facebook.com/pages/NuageLab/150091288388352)
+* Drop us a line at [wordpress-plugins@nuagelab.com](mailto:wordpress-plugins@nuagelab.com)
+
+= More =
+* [Also see our other plugins](http://www.nuagelab.com/products/wordpress-plugins/) or see [our WordPress.org profile page](http://profiles.wordpress.org/users/nuagelab/)
 
 == Installation ==
 
@@ -50,3 +60,9 @@ The plugin is currently available in English, French and Spanish. If you want to
 * First released version. Tested internally with about 10 sites.
 
 == Upgrade Notice ==
+
+== Translations ==
+
+* English
+* French
+* Spanish
