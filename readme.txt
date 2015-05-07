@@ -3,7 +3,7 @@ Contributors: nuagelab
 Donate link: http://www.nuagelab.com/products/wordpress-plugins/
 Tags: admin, attachment, accents, administration, latin, special characters, attachments
 Requires at least: 3.0
-Tested up to: 4.2.1
+Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2 or later
 
@@ -56,6 +56,9 @@ This section describes how to install the plugin and get it working.
 The plugin is currently available in English, French and Spanish. If you want to help with translation in other languages, we'll be happy to hear from you.
 
 == Changelog ==
+= 0.0.2 =
+* Tested up to WordPress 4.2.2
+
 = 0.0.1 =
 * First released version. Tested internally with about 10 sites.
 

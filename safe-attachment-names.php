@@ -4,7 +4,7 @@ Plugin Name: Safe Attachment Names
 Plugin URI: http://www.nuagelab.com/wordpress-plugins/safe-attachment-names
 Description: Automatically detect and change the name of attachments containing special characters such as accented letters.
 Author: NuageLab <wordpress-plugins@nuagelab.com>
-Version: 0.0.1
+Version: 0.0.2
 License: GPLv2 or later
 Author URI: http://www.nuagelab.com/wordpress-plugins
 */
